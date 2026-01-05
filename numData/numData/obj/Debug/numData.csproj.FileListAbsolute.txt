@@ -1,0 +1,8 @@
+C:\lion7project\lion7\numData\numData\bin\Debug\numData.exe.config
+C:\lion7project\lion7\numData\numData\bin\Debug\numData.exe
+C:\lion7project\lion7\numData\numData\bin\Debug\numData.pdb
+C:\lion7project\lion7\numData\numData\obj\Debug\numData.csproj.AssemblyReference.cache
+C:\lion7project\lion7\numData\numData\obj\Debug\numData.csproj.CoreCompileInputs.cache
+C:\lion7project\lion7\numData\numData\obj\Debug\numData.exe
+C:\lion7project\lion7\numData\numData\obj\Debug\numData.pdb
+C:\lion7project\lion7\numData\numData\obj\Debug\numData.exe.config
