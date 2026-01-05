@@ -1,0 +1,8 @@
+C:\lion7\variable\variable\bin\Debug\variable.exe.config
+C:\lion7\variable\variable\bin\Debug\variable.exe
+C:\lion7\variable\variable\bin\Debug\variable.pdb
+C:\lion7\variable\variable\obj\Debug\variable.csproj.AssemblyReference.cache
+C:\lion7\variable\variable\obj\Debug\variable.csproj.CoreCompileInputs.cache
+C:\lion7\variable\variable\obj\Debug\variable.exe
+C:\lion7\variable\variable\obj\Debug\variable.pdb
+C:\lion7\variable\variable\obj\Debug\variable.exe.config

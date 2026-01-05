@@ -1,0 +1,8 @@
+C:\lion7\UseLiteral\UseLiteral\bin\Debug\UseLiteral.exe.config
+C:\lion7\UseLiteral\UseLiteral\bin\Debug\UseLiteral.exe
+C:\lion7\UseLiteral\UseLiteral\bin\Debug\UseLiteral.pdb
+C:\lion7\UseLiteral\UseLiteral\obj\Debug\UseLiteral.csproj.AssemblyReference.cache
+C:\lion7\UseLiteral\UseLiteral\obj\Debug\UseLiteral.csproj.CoreCompileInputs.cache
+C:\lion7\UseLiteral\UseLiteral\obj\Debug\UseLiteral.exe
+C:\lion7\UseLiteral\UseLiteral\obj\Debug\UseLiteral.pdb
+C:\lion7\UseLiteral\UseLiteral\obj\Debug\UseLiteral.exe.config
