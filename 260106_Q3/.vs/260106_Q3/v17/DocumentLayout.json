@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lion7project\\lion7\\260106_Q3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C880921C-EBA2-41E0-A457-A421AA67D833}|260106_Q3\\260106_Q3.csproj|c:\\lion7project\\lion7\\260106_q3\\260106_q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C880921C-EBA2-41E0-A457-A421AA67D833}|260106_Q3\\260106_Q3.csproj|solutionrelative:260106_q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\lion7project\\lion7\\260106_Q3\\260106_Q3\\Program.cs",
+              "RelativeDocumentMoniker": "260106_Q3\\Program.cs",
+              "ToolTip": "C:\\lion7project\\lion7\\260106_Q3\\260106_Q3\\Program.cs",
+              "RelativeToolTip": "260106_Q3\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:12:59.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
