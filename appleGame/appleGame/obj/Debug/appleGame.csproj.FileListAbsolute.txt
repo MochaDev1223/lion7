@@ -1,0 +1,8 @@
+C:\lion7project\lion7\appleGame\appleGame\bin\Debug\appleGame.exe.config
+C:\lion7project\lion7\appleGame\appleGame\bin\Debug\appleGame.exe
+C:\lion7project\lion7\appleGame\appleGame\bin\Debug\appleGame.pdb
+C:\lion7project\lion7\appleGame\appleGame\obj\Debug\appleGame.csproj.AssemblyReference.cache
+C:\lion7project\lion7\appleGame\appleGame\obj\Debug\appleGame.csproj.CoreCompileInputs.cache
+C:\lion7project\lion7\appleGame\appleGame\obj\Debug\appleGame.exe
+C:\lion7project\lion7\appleGame\appleGame\obj\Debug\appleGame.pdb
+C:\lion7project\lion7\appleGame\appleGame\obj\Debug\appleGame.exe.config

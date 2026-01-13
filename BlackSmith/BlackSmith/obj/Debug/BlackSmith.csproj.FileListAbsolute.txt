@@ -1,0 +1,8 @@
+C:\lion7project\lion7\BlackSmith\BlackSmith\bin\Debug\BlackSmith.exe.config
+C:\lion7project\lion7\BlackSmith\BlackSmith\bin\Debug\BlackSmith.exe
+C:\lion7project\lion7\BlackSmith\BlackSmith\bin\Debug\BlackSmith.pdb
+C:\lion7project\lion7\BlackSmith\BlackSmith\obj\Debug\BlackSmith.csproj.AssemblyReference.cache
+C:\lion7project\lion7\BlackSmith\BlackSmith\obj\Debug\BlackSmith.csproj.CoreCompileInputs.cache
+C:\lion7project\lion7\BlackSmith\BlackSmith\obj\Debug\BlackSmith.exe
+C:\lion7project\lion7\BlackSmith\BlackSmith\obj\Debug\BlackSmith.pdb
+C:\lion7project\lion7\BlackSmith\BlackSmith\obj\Debug\BlackSmith.exe.config

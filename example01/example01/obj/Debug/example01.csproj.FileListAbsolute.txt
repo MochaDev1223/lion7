@@ -1,0 +1,7 @@
+C:\lion7project\lion7\example01\example01\bin\Debug\example01.exe.config
+C:\lion7project\lion7\example01\example01\bin\Debug\example01.exe
+C:\lion7project\lion7\example01\example01\bin\Debug\example01.pdb
+C:\lion7project\lion7\example01\example01\obj\Debug\example01.csproj.AssemblyReference.cache
+C:\lion7project\lion7\example01\example01\obj\Debug\example01.csproj.CoreCompileInputs.cache
+C:\lion7project\lion7\example01\example01\obj\Debug\example01.exe
+C:\lion7project\lion7\example01\example01\obj\Debug\example01.pdb

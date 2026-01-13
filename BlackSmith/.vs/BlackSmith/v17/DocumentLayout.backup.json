@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lion7project\\lion7\\BlackSmith\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{067CF356-FAB4-4BF9-9D82-3395B013F198}|BlackSmith\\BlackSmith.csproj|c:\\lion7project\\lion7\\blacksmith\\blacksmith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067CF356-FAB4-4BF9-9D82-3395B013F198}|BlackSmith\\BlackSmith.csproj|solutionrelative:blacksmith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\lion7project\\lion7\\BlackSmith\\BlackSmith\\Program.cs",
+              "RelativeDocumentMoniker": "BlackSmith\\Program.cs",
+              "ToolTip": "C:\\lion7project\\lion7\\BlackSmith\\BlackSmith\\Program.cs",
+              "RelativeToolTip": "BlackSmith\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T02:11:06.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
