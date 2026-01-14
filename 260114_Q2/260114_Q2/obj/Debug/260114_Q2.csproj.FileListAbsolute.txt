@@ -1,0 +1,8 @@
+C:\lion7project\lion7\260114_Q2\260114_Q2\obj\Debug\260114_Q2.csproj.AssemblyReference.cache
+C:\lion7project\lion7\260114_Q2\260114_Q2\obj\Debug\260114_Q2.csproj.CoreCompileInputs.cache
+C:\lion7project\lion7\260114_Q2\260114_Q2\bin\Debug\260114_Q2.exe.config
+C:\lion7project\lion7\260114_Q2\260114_Q2\bin\Debug\260114_Q2.exe
+C:\lion7project\lion7\260114_Q2\260114_Q2\bin\Debug\260114_Q2.pdb
+C:\lion7project\lion7\260114_Q2\260114_Q2\obj\Debug\260114_Q2.exe
+C:\lion7project\lion7\260114_Q2\260114_Q2\obj\Debug\260114_Q2.pdb
+C:\lion7project\lion7\260114_Q2\260114_Q2\obj\Debug\260114_Q2.exe.config
