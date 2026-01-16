@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lion7project\\lion7\\ConsoleApp31\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3340EC61-0346-4D27-A064-290B83749321}|ConsoleApp31\\ConsoleApp31.csproj|c:\\lion7project\\lion7\\consoleapp31\\consoleapp31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340EC61-0346-4D27-A064-290B83749321}|ConsoleApp31\\ConsoleApp31.csproj|solutionrelative:consoleapp31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\lion7project\\lion7\\ConsoleApp31\\ConsoleApp31\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp31\\Program.cs",
+              "ToolTip": "C:\\lion7project\\lion7\\ConsoleApp31\\ConsoleApp31\\Program.cs",
+              "RelativeToolTip": "ConsoleApp31\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T00:41:42.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

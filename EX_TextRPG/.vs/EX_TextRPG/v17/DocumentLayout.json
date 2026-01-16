@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lion7project\\lion7\\EX_TextRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD6BE0-6E94-48D0-BFBC-E1A44957932D}|EX_TextRPG\\EX_TextRPG.csproj|c:\\lion7project\\lion7\\ex_textrpg\\ex_textrpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DD6BE0-6E94-48D0-BFBC-E1A44957932D}|EX_TextRPG\\EX_TextRPG.csproj|solutionrelative:ex_textrpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD6BE0-6E94-48D0-BFBC-E1A44957932D}|EX_TextRPG\\EX_TextRPG.csproj|c:\\lion7project\\lion7\\ex_textrpg\\ex_textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DD6BE0-6E94-48D0-BFBC-E1A44957932D}|EX_TextRPG\\EX_TextRPG.csproj|solutionrelative:ex_textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD6BE0-6E94-48D0-BFBC-E1A44957932D}|EX_TextRPG\\EX_TextRPG.csproj|c:\\lion7project\\lion7\\ex_textrpg\\ex_textrpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DD6BE0-6E94-48D0-BFBC-E1A44957932D}|EX_TextRPG\\EX_TextRPG.csproj|solutionrelative:ex_textrpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD6BE0-6E94-48D0-BFBC-E1A44957932D}|EX_TextRPG\\EX_TextRPG.csproj|c:\\lion7project\\lion7\\ex_textrpg\\ex_textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DD6BE0-6E94-48D0-BFBC-E1A44957932D}|EX_TextRPG\\EX_TextRPG.csproj|solutionrelative:ex_textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD6BE0-6E94-48D0-BFBC-E1A44957932D}|EX_TextRPG\\EX_TextRPG.csproj|c:\\lion7project\\lion7\\ex_textrpg\\ex_textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DD6BE0-6E94-48D0-BFBC-E1A44957932D}|EX_TextRPG\\EX_TextRPG.csproj|solutionrelative:ex_textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD6BE0-6E94-48D0-BFBC-E1A44957932D}|EX_TextRPG\\EX_TextRPG.csproj|c:\\lion7project\\lion7\\ex_textrpg\\ex_textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DD6BE0-6E94-48D0-BFBC-E1A44957932D}|EX_TextRPG\\EX_TextRPG.csproj|solutionrelative:ex_textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\lion7project\\lion7\\EX_TextRPG\\EX_TextRPG\\Field.cs",
+              "RelativeDocumentMoniker": "EX_TextRPG\\Field.cs",
+              "ToolTip": "C:\\lion7project\\lion7\\EX_TextRPG\\EX_TextRPG\\Field.cs",
+              "RelativeToolTip": "EX_TextRPG\\Field.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAIAwwFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:38:18.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\lion7project\\lion7\\EX_TextRPG\\EX_TextRPG\\Monster.cs",
+              "RelativeDocumentMoniker": "EX_TextRPG\\Monster.cs",
+              "ToolTip": "C:\\lion7project\\lion7\\EX_TextRPG\\EX_TextRPG\\Monster.cs",
+              "RelativeToolTip": "EX_TextRPG\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:32:29.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\lion7project\\lion7\\EX_TextRPG\\EX_TextRPG\\MainGame.cs",
+              "RelativeDocumentMoniker": "EX_TextRPG\\MainGame.cs",
+              "ToolTip": "C:\\lion7project\\lion7\\EX_TextRPG\\EX_TextRPG\\MainGame.cs",
+              "RelativeToolTip": "EX_TextRPG\\MainGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:23:26.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Info.cs",
+              "DocumentMoniker": "C:\\lion7project\\lion7\\EX_TextRPG\\EX_TextRPG\\Info.cs",
+              "RelativeDocumentMoniker": "EX_TextRPG\\Info.cs",
+              "ToolTip": "C:\\lion7project\\lion7\\EX_TextRPG\\EX_TextRPG\\Info.cs",
+              "RelativeToolTip": "EX_TextRPG\\Info.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:13:15.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\lion7project\\lion7\\EX_TextRPG\\EX_TextRPG\\Player.cs",
+              "RelativeDocumentMoniker": "EX_TextRPG\\Player.cs",
+              "ToolTip": "C:\\lion7project\\lion7\\EX_TextRPG\\EX_TextRPG\\Player.cs",
+              "RelativeToolTip": "EX_TextRPG\\Player.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:11:09.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\lion7project\\lion7\\EX_TextRPG\\EX_TextRPG\\Program.cs",
+              "RelativeDocumentMoniker": "EX_TextRPG\\Program.cs",
+              "ToolTip": "C:\\lion7project\\lion7\\EX_TextRPG\\EX_TextRPG\\Program.cs",
+              "RelativeToolTip": "EX_TextRPG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:05:17.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

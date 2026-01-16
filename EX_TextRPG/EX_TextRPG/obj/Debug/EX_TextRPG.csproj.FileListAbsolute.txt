@@ -1,0 +1,8 @@
+C:\lion7project\lion7\EX_TextRPG\EX_TextRPG\bin\Debug\EX_TextRPG.exe.config
+C:\lion7project\lion7\EX_TextRPG\EX_TextRPG\bin\Debug\EX_TextRPG.exe
+C:\lion7project\lion7\EX_TextRPG\EX_TextRPG\bin\Debug\EX_TextRPG.pdb
+C:\lion7project\lion7\EX_TextRPG\EX_TextRPG\obj\Debug\EX_TextRPG.csproj.AssemblyReference.cache
+C:\lion7project\lion7\EX_TextRPG\EX_TextRPG\obj\Debug\EX_TextRPG.csproj.CoreCompileInputs.cache
+C:\lion7project\lion7\EX_TextRPG\EX_TextRPG\obj\Debug\EX_TextRPG.exe
+C:\lion7project\lion7\EX_TextRPG\EX_TextRPG\obj\Debug\EX_TextRPG.pdb
+C:\lion7project\lion7\EX_TextRPG\EX_TextRPG\obj\Debug\EX_TextRPG.exe.config
